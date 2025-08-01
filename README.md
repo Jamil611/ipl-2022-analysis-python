@@ -14,7 +14,7 @@ This project presents a comprehensive **data analysis of IPL 2022** using **Pyth
 *  Visual analysis of team performance over the season
 *  Top batsmen and bowlers of IPL 2022
 *  Toss impact on match results
-* 🏟 Venue-wise match trends and score distributions
+*  Venue-wise match trends and score distributions
 *  Player of the Match trends
 
 ## 📊 Key Insights
@@ -34,18 +34,14 @@ For a detailed insight summary, please refer to `IPL 2022 Insights.pdf`. Some hi
 * `pandas` – for data manipulation
 * `plotly.express` – for interactive visualizations
 
-▶️ How to Run the Notebook
-Clone the repository:
-git clone https://github.com/Jamil611/ipl-2022-analysis-python.git
+## ▶️ How to Run the Notebook
+
+Clone the repository: git clone https://github.com/Jamil611/ipl-2022-analysis-python.git
 cd ipl-2022-analysis-python
 
-Install dependencies:
+Install dependencies: pip install pandas plotly notebook
 
-pip install pandas plotly notebook
-
-Launch Jupyter Notebook:
-
-jupyter notebook
+Launch Jupyter Notebook: jupyter notebook
 
 Open IPL 2022 Analysis.ipynb and run the cells step-by-step.
 
