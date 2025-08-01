@@ -19,7 +19,8 @@ This project presents a comprehensive **data analysis of IPL 2022** using **Pyth
 
 ## 📊 Key Insights
 
-For a detailed insight summary, please refer to `IPL 2022 Insights.pdf`. Some highlights include:
+For a detailed insight summary, please refer to `IPL 2022 Data Analysis Insight.pdf`. 
+Some highlights include:
 
 * **Jos Buttler** was the highest run scorer, consistently leading Rajasthan Royals to big totals.
 * **Yuzvendra Chahal** topped the bowling charts with game-changing spells.
@@ -43,7 +44,7 @@ Install dependencies: pip install pandas plotly notebook
 
 Launch Jupyter Notebook: jupyter notebook
 
-Open IPL 2022 Analysis.ipynb and run the cells step-by-step.
+Open "IPL 2022 Analysis.ipynb" and run the cells step-by-step.
 
 ## 🧠 Learning Outcome
 
